@@ -19,3 +19,5 @@ You can connect with me on :
 - [Ko-Fi](https://ko-fi.com/pijushmanna)
 - [Dribble](https://dribbble.com/pijush65)
 - [Stack Overflow](https://stackoverflow.com/users/10370374/pijush-manna)
+
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
