@@ -1,13 +1,3 @@
-**About Me**
--
-
-Hi I am Pijush manna, A passionate developer learning and focusing on growing my skills. I have worked in MNC and startups to build high quality scalable system. I am passionate about sharing my knowledge open source blogs, and videos.
-
-**Learn from my videos: [youtube.com/@technicology4252](https://www.youtube.com/@technicology4252)**
-
-**Reach out to me on email : [pijushm919@gmail.com]**
-
-You can connect with me on : 
 # Hi, I'm Pijush Manna 👋
 
 ### Senior Android Engineer | 7 Years Experience | Kotlin • Jetpack Compose • Clean Architecture
